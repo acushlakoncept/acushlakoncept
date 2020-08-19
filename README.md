@@ -14,6 +14,4 @@
 - 🤔 I’m looking for help with ...
 -->
 
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=acushlakoncept&hide=["issues"]&show_icons=true)
-
 [![Uduak Essien's github stats](https://github-readme-stats.vercel.app/api?username=acushlakoncept&show_icons=true&theme=radical)](https://github.com/acushlakoncept/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acushlakoncept&show_icons=true&theme=radical&layout=compact)](https://github.com/acushlakoncept/github-readme-stats)
