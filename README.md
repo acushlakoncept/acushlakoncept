@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently a full time student at Microverse Inc.
-- 🌱 I’m currently learning Full Stack Web Development (Ruby on Rails, React and Redux)
 - 👯 I’m looking to collaborate on JavaScript, React and Ruby on Rails Project
 - 💬 Ask me about Web Development
 - 📫 How to reach me: [Twitter](https://twitter.com/acushlakoncept), [Linkedin](https://www.linkedin.com/in/acushlakoncept/)
